@@ -1,0 +1,19 @@
+server:
+  port: 8088
+
+#person:
+#  lastName: zhangsang
+#  age: 18
+#  boss: false
+#  maps:
+#    k1: aa
+#    k2: bb
+#    k3: cc
+#  lists:
+#    - 11
+#    - 22
+#    - 33
+#  dog:
+#    name: 小狗
+#    age: 2
+#  birthday: 2019/1/4
